@@ -54,29 +54,29 @@
     "static/work-sans-latin-700.d5f0a562.svg",
     "static/work-sans-latin-800.d61be243.svg",
     "static/work-sans-latin-900.655a4b4b.svg",
-    "0.3139e51d.js",
-    "1.924563be.js",
+    "0.c18a91fb.js",
+    "1.f4933cd2.js",
     "client.d9b1a5fa.js",
     "vendor.c2a70f1c.js",
-    "manifest.f2a3d3cd.js",
+    "manifest.8516dc29.js",
     "client.4064ea88.css",
-    "0.3139e51d.js.map",
-    "1.924563be.js.map",
+    "0.c18a91fb.js.map",
+    "1.f4933cd2.js.map",
     "client.d9b1a5fa.js.map",
     "client.4064ea88.css.map",
     "vendor.c2a70f1c.js.map",
-    "manifest.f2a3d3cd.js.map",
+    "manifest.8516dc29.js.map",
     "CNAME",
     "index.html"
   ],
   "initial": [
-    "manifest.f2a3d3cd.js",
+    "manifest.8516dc29.js",
     "vendor.c2a70f1c.js",
     "client.d9b1a5fa.js"
   ],
   "async": [
-    "0.3139e51d.js",
-    "1.924563be.js"
+    "0.c18a91fb.js",
+    "1.f4933cd2.js"
   ],
   "modules": {
     "67089588": [
